@@ -53,3 +53,12 @@
   components:
   - type: Sprite
     state: pirate_flag
+
+- type: entity
+  parent: BaseFlag
+  id: AnarhistFlag
+  name: anarhist flag
+  description: Anarchism is the mother of order!!
+  components:
+  - type: Sprite
+    state: anarhist_flag
