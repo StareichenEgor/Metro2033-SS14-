@@ -984,4 +984,49 @@
   - type: Tag
     tags:
     - Meat
-    
+
+- type: entity
+  name: hleb and myaso
+  parent: FoodBurgerBase
+  id: bread meat
+  description: Hleb and blyat myaso!
+  components:
+  - type: FlavorProfile
+    flavors:
+      - bun
+      - meaty
+  - type: Sprite
+    state: plain-meat
+  - type: SolutionContainerManager
+    solutions:
+      food:
+        maxVol: 15
+        reagents:
+        - ReagentId: Protein
+          Quantity: 10
+        - ReagentId: Vitamin
+          Quantity: 5
+
+- type: entity
+  name: hleb and grib
+  parent: FoodBurgerBase
+  id: bread mushroom
+  description: Hleb and blyat myaso!
+  components:
+  - type: FlavorProfile
+    flavors:
+      - bun
+      - mushroom
+  - type: Sprite
+    state: plain-musrom
+  - type: SolutionContainerManager
+    solutions:
+      food:
+        maxVol: 15
+        reagents:
+        - ReagentId: Nutriment
+          Quantity: 6
+        - ReagentId: Protein
+          Quantity: 3
+        - ReagentId: Vitamin
+          Quantity: 6

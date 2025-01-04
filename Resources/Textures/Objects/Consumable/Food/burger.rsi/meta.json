@@ -8,6 +8,15 @@
   },
   "states": [
     {
+      "name": "plain-meat"
+    },
+    {
+      "name": "plain-musrom"
+    },
+    {
+      "name": "plain-slice"
+    },
+    {
       "name": "appendix"
     },
     {
