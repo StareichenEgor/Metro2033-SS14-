@@ -15,6 +15,36 @@
     },
     {
       "name": "anarhist_flag"
+    },
+    {
+      "name": "anarhist2_flag"
+    },
+    {
+      "name": "anarhist3_flag"
+    },
+    {
+      "name": "anarhist4_flag"
+    },
+    {
+      "name": "VDNH_flag"
+    },
+    {
+      "name": "VDNH2_flag"
+    },
+    {
+      "name": "VDNH3_flag"
+    },
+    {
+      "name": "VDNH4_flag"
+    },
+    {
+      "name": "VDNH5_flag"
+    },
+    {
+      "name": "USSR_flag"
+    },
+    {
+      "name": "USSR2_flag"
     }
   ]
 }
