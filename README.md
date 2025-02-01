@@ -1,7 +1,7 @@
 # Station Metro 2033
 
-![Station Metro 2033](![Metro2033](https://github.com/user-attachments/assets/243a3905-abbf-42a6-8cc1-710b285b75af)
-)
+![Metro2033](https://github.com/user-attachments/assets/2a1ef5d1-241b-4181-a218-57c272f176ab)
+
 
 ## Лицензия
 
