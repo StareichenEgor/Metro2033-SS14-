@@ -1,38 +1,47 @@
-<p align="center"> <img alt="Space Station 14" width="880" height="300" src="https://raw.githubusercontent.com/space-wizards/asset-dump/de329a7898bb716b9d5ba9a0cd07f38e61f1ed05/github-logo.svg" /></p>
+# Station Metro 2033
 
-Space Station 14 is a remake of SS13 that runs on [Robust Toolbox](https://github.com/space-wizards/RobustToolbox), our homegrown engine written in C#.
+![Station Metro 2033](images/station_metro_2033.png)
 
-This is the primary repo for Space Station 14. To prevent people forking RobustToolbox, a "content" pack is loaded by the client and server. This content pack contains everything needed to play the game on one specific server.
+## Лицензия
 
-If you want to host or create content for SS14, this is the repo you need. It contains both RobustToolbox and the content pack for development of new content packs.
+**Внимание!** Данная сборка Space Station 14 (SS14) является **закрытой** и предназначена исключительно для личного использования автором (Stareichen).
 
-## Links
+**Распространение, использование, модификация, копирование и любое другое применение данной сборки, а также ее частей, без письменного разрешения автора (Stareichen) строго запрещены.**
 
-[Website](https://spacestation14.io/) | [Discord](https://discord.ss14.io/) | [Forum](https://forum.spacestation14.io/) | [Steam](https://store.steampowered.com/app/1255460/Space_Station_14/) | [Standalone Download](https://spacestation14.io/about/nightlies/)
+Это включает в себя, но не ограничивается:
 
-## Documentation/Wiki
+*   Публикацию в открытом доступе (например, на GitHub, форумах, сайтах).
+*   Распространение среди третьих лиц.
+*   Использование в любых коммерческих или некоммерческих целях.
+*   Модификацию и/или включение в другие проекты.
+*   Декомпиляцию и обратную инженерию.
 
-Our [docs site](https://docs.spacestation14.io/) has documentation on SS14s content, engine, game design and more. We also have lots of resources for new contributors to the project.
+Любое нарушение данной лицензии может повлечь за собой юридические последствия.
 
-## Contributing
+Если вы заинтересованы в использовании данной сборки, пожалуйста, свяжитесь с автором (Stareichen) для обсуждения возможных вариантов.
 
-We are happy to accept contributions from anybody. Get in Discord if you want to help. We've got a [list of issues](https://github.com/space-wizards/space-station-14-content/issues) that need to be done and anybody can pick them up. Don't be afraid to ask for help either!  
-Just make sure your changes and pull requests are in accordance with the [contribution guidelines](https://docs.spacestation14.com/en/general-development/codebase-info/pull-request-guidelines.html).
+Все права защищены.
 
-We are not currently accepting translations of the game on our main repository. If you would like to translate the game into another language consider creating a fork or contributing to a fork.
+---
 
-## Building
-
-1. Clone this repo.
-2. Run `RUN_THIS.py` to init submodules and download the engine.
-3. Compile the solution.
-
-[More detailed instructions on building the project.](https://docs.spacestation14.com/en/general-development/setup.html)
+**For English speakers:**
 
 ## License
 
-All code for the content repository is licensed under [MIT](https://github.com/space-wizards/space-station-14/blob/master/LICENSE.TXT).
+**Attention!** This Space Station 14 (SS14) build is **closed-source** and intended solely for the personal use of the author (Stareichen).
 
-Most assets are licensed under [CC-BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) unless stated otherwise. Assets have their license and the copyright in the metadata file. [Example](https://github.com/space-wizards/space-station-14/blob/master/Resources/Textures/Objects/Tools/crowbar.rsi/meta.json).
+**Distribution, use, modification, copying, and any other application of this build, as well as its parts, without the written permission of the author (Stareichen) is strictly prohibited.**
 
-Note that some assets are licensed under the non-commercial [CC-BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) or similar non-commercial licenses and will need to be removed if you wish to use this project commercially.
+This includes, but is not limited to:
+
+*   Publication in the public domain (e.g., on GitHub, forums, websites).
+*   Distribution among third parties.
+*   Use for any commercial or non-commercial purposes.
+*   Modification and/or inclusion in other projects.
+*   Decompilation and reverse engineering.
+
+Any violation of this license may result in legal consequences.
+
+If you are interested in using this build, please contact the author (Stareichen) to discuss possible options.
+
+All rights reserved.
